@@ -31,7 +31,7 @@ $ pip install -r requirements.txt
 
 4. Run the Application:
 ```
-python main.py
+$ python main.py
 ```
 <br>
 
