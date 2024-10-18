@@ -8,7 +8,7 @@ The application is containerized using the Docker.
 - Flask 2.3.2
 - Docker 27.2.0
 
-# To run without Docker?
+# To run without Docker
 1. Create the Virtual Environment:
 ```
 $ python3 -m venv venv
@@ -44,7 +44,7 @@ Expected result:
 {"first_name":"Hyper","id":"90","last_name":"Skill"}
 ```
 
-# To run with the Docker?
+# To run with the Docker
 1. Navigate to the project root directory and build the Image:
 ```
 $ docker build -t flask-app .
